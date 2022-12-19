@@ -12,4 +12,8 @@
 
   [![LOGO-Group](./Images/LOGO-Group.png)](https://amonguscn.club/)
 
+Wiki指路
+
+  [![LOGO-Group](./Images/LOGO-Wiki.png)](https://amonguscn.cn/)
+
 目前正在学习C# 以及准备制作模组 [TheHostRoles](https://github.com/XiezibanWrite/TheHostRoles)
