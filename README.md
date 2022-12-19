@@ -10,4 +10,4 @@
 
 小站指路
 
-  [![LOGO-Group](C:\Users\Lenovo\Desktop\XiezibanWrite\Images\LOGO-Group.png)](https://amonguscn.club/)
+  [![LOGO-Group](./Images/LOGO-Group.png)](https://amonguscn.club/)
