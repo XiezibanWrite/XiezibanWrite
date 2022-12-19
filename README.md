@@ -4,7 +4,7 @@
 
 目前制作的模组汉化有：
 
- –TheOtherRoles CE(Community Edition) 超多职业模组CE版 - 作者 JustASysAdmin
+ –TheOtherRoles CE(Community Edition) 超多职业模组CE(社区)版 - 作者 JustASysAdmin
 
  –Town Of Host_Y（TOHY） 小镇主持人Y版本 - 作者 Yumeno
 
