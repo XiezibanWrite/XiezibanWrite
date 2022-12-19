@@ -12,4 +12,4 @@
 
   [![LOGO-Group](./Images/LOGO-Group.png)](https://amonguscn.club/)
 
-目前正在学习C# 以及预备制作的模组 [TheHostRoles](https://github.com/XiezibanWrite/TheHostRoles)
+目前正在学习C# 以及准备制作模组 [TheHostRoles](https://github.com/XiezibanWrite/TheHostRoles)
