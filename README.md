@@ -11,3 +11,5 @@
 小站指路
 
   [![LOGO-Group](./Images/LOGO-Group.png)](https://amonguscn.club/)
+
+目前正在学习C# 以及预备制作的模组 [TheHostRoles](https://github.com/XiezibanWrite/TheHostRoles)
