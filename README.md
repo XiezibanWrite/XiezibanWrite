@@ -18,7 +18,7 @@ Wiki指路
 
 目前正在学习C# 以及准备制作模组 TheHostRoles
 
-![LOGO-Group](./Images/THR_Banner.png)](https://github.com/XiezibanWrite/TheHostRoles)
+![THR_Banner](.\Images\THR_Banner.png)
 
 
 
