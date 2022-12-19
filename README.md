@@ -17,3 +17,12 @@ Wiki指路
   [![LOGO-Group](./Images/LOGO-Wiki.png)](https://amonguscn.cn/)
 
 目前正在学习C# 以及准备制作模组 [TheHostRoles](https://github.com/XiezibanWrite/TheHostRoles)
+
+
+
+隔壁Mc-AS-Huier的模组TheIdealShip指路
+
+  [![LOGO-Group](./Images/TheIdealShip-Banner.png)](https://github.com/TheIdealShipAU/TheIdealShip/)
+
+
+
