@@ -8,11 +8,11 @@ The currently produced module handiwork are:/目前制作的模组汉化有：
 
  –Town Of Host_Y（TOHY） 小镇主持人Y版本 - Author Yumeno/作者 Yumeno
 
-Chineseization Group  Guide/汉化组小站指路
+Chineseization Group  website/汉化组小站指路
 
   [![LOGO-Group](./Images/LOGO-Group.png)](https://amonguscn.club/)
 
-Chineseization Group Wiki Guide/汉化组Wiki指路
+Chineseization Group Wiki website/汉化组Wiki指路
 
   [![LOGO-Group](./Images/LOGO-Wiki.png)](https://amonguscn.cn/)
 
@@ -22,7 +22,7 @@ Currently learning C# and working on the module TheHostRoles/目前正在学习C
 
 
 
-Next door Mc-AS-Huier's module TheIdealShip points the way/隔壁Mc-AS-Huier的模组TheIdealShip指路
+Next door Mc-AS-Huier's module TheIdealShip website/隔壁Mc-AS-Huier的模组TheIdealShip指路
 
   [![LOGO-Group](./Images/TheIdealShip-Banner.png)](https://github.com/TheIdealShipAU/TheIdealShip/)
 
