@@ -8,6 +8,8 @@ The currently produced module handiwork are:/目前制作的模组汉化有：
 
  –Town Of Host_Y（TOHY） 小镇主持人Y版本 - Author Yumeno/作者 Yumeno
 
+–Among Us Challenger Among Us挑战者 - Author Lunastellia/作者 Lunastellia
+
 Chineseization Group  website/汉化组小站指路
 
   [![LOGO-Group](./Images/LOGO-Group.png)](https://amonguscn.club/)
@@ -17,6 +19,8 @@ Chineseization Group Wiki website/汉化组Wiki指路
   [![LOGO-Group](./Images/LOGO-Wiki.png)](https://amonguscn.cn/)
 
 Currently learning C# and working on the module TheHostRoles/目前正在学习C# 以及准备制作模组 TheHostRoles
+
+（几乎就是完全摆烂 更新都没怎么更过）
 
 [![LOGO-Group](./Images/TheHostRoles_Banner.png)](https://github.com/XiezibanWrite/TheHostRoles/)
 
