@@ -26,7 +26,7 @@ Currently learning C# and working on the module TheHostRoles/目前正在学习C
 
 
 
-Mc-AS-Huier's module TheIdealShip's link/隔壁Mc-AS-Huier的模组TheIdealShip指路
+Huier Huang's module TheIdealShip's link/天寸的模组TheIdealShip指路
 
   [![LOGO-Group](./Images/TheIdealShip-Banner.png)](https://github.com/TheIdealShipAU/TheIdealShip/)
 
